@@ -1,0 +1,10 @@
+# Ignore build output and dependencies
+dist
+node_modules
+yarn.lock
+
+# Ignore system files
+.git
+.husky
+.gemini
+.agents
